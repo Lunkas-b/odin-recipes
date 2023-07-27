@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\recipes"
   ],
-  "SelectedNode": "\\C:\\Users\\Shrun\\Source\\Repos\\odin-recipes",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
